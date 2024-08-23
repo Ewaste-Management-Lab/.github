@@ -1,7 +1,6 @@
 # Makerere University CEDAT, netLAbs!UG e-Waste management laboratory
 
 # About us
-================
 
 ### netLAbs!UG e-Waste Management Laboratory
 
@@ -31,6 +30,5 @@ We are a research laboratory based at Makerere University's College of Engineeri
 ## Contact Us
 --------------
 
-Email: [cedat-netlabs@makerere.ac.ug](mailto:cedat-netlabs@makerere.ac.ug)
 
 ## Let's work together to reduce e-waste and promote sustainability!
